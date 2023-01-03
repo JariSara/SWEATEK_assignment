@@ -1,1 +1,0 @@
-"# SWEATEK_assignment" 
